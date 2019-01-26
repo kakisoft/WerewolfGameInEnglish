@@ -33,6 +33,9 @@ I am not sure but ...
 確実ではないけれど・・・
 
 
+I felt like it.
+なんとなく
+
 ```
 
 ## For Seer

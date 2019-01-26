@@ -35,6 +35,7 @@
 |  Lynch                       |  ローラー          |  Shall we lynch all seers?      |
 |  Obviously                   |  明白な            | He is obviously a Villager.       |
 |  Reasonable                  |  つじつまが合う     |  That sounds reasonable.      |
+|  six senth                   |  勘                |        |
 
 
 
