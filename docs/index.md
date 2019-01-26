@@ -14,27 +14,27 @@
 ## Action
 
 |                              |               |        |
-|:-----------------------------|:-------------:|:-----:|
-|  Vote                        |  投票する      |  |
-|  Kick out                    |  追放する      |  |
-|  Point at                    |  指差す        |    |
-|  Bite / eat                  |  噛む         |    |
-|  Doubt / am suspicious of    |  疑う         |    |
-|  Beleve / trust              |  信じる        |    |
-|  Confess                     |  告白する      |    |
-|  Sugeest                     |  提案する      |    |
-|  Come out                    |  名乗り出る    |    |
+|:-----------------------------|:--------------|:-----|
+|  Vote                        |  投票する      |  It's time to vote.  |
+|  Kick out                    |  追放する      |  Let's kick out him.  |
+|  Point at                    |  指差す        |  Please point at someone whom you think the warewolf is.    |
+|  Bite / eat                  |  噛む         |   You were bitten(eaten) last night.   |
+|  Doubt / am suspicious of    |  疑う         |   I doubt your words because ...   |
+|  Beleve / trust              |  信じる        |   I beleve what you said.   |
+|  Confess                     |  告白する      |   Please confess your status.   |
+|  Sugeest                     |  提案する      |   I suggested the seer should come out.   |
+|  Come out                    |  名乗り出る    |   Seer, please come out.   |
 
 
 ## Terms
 
 |                              |                   |        |
-|:-----------------------------|:----------------:|:-----:|
-|  Opinion                     |  意見             |        |
-|  Role                        |  役職             |        |
-|  Lynch                       |  ローラー          |        |
-|  Obviously                   |  明白な            |        |
-|  Reasonable                  |  つじつまが合う     |        |
+|:-----------------------------|:-----------------|:-----|
+|  Opinion                     |  意見             |  Tell us your opinion.      |
+|  Role                        |  役職             |  I have a role. But I cannot tell it now.      |
+|  Lynch                       |  ローラー          |  Shall we lynch all seers?      |
+|  Obviously                   |  明白な            | He is obviously a Villager.       |
+|  Reasonable                  |  つじつまが合う     |  That sounds reasonable.      |
 
 
 
