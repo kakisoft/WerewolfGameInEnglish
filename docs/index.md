@@ -34,8 +34,8 @@
 |  Role                        |  役職             |  I have a role. But I cannot tell it now.      |
 |  Lynch                       |  ローラー          |  Shall we lynch all seers?      |
 |  Obviously                   |  明白な            | He is obviously a Villager.       |
-|  Reasonable                  |  つじつまが合う     |  That sounds reasonable.      |
+|  Reasonable                  |  つじつまが合う     |  That sounds reasonable./ Its not reasonable.      |
 |  six senth                   |  勘                |        |
-
+|  first impression            |  第一印象                 |        |
 
 

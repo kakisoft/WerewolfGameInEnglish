@@ -1,11 +1,31 @@
 ## opinion / reason
 ```
+Who do you suspect (is a warewolf)?
+誰が人狼だと思いますか？
+
+
 I thnk he is not a warewolf, because ....
 彼は人狼では無いと思う。なぜなら・・・
 
 
+He looks relaxed.
+彼はリラックスしている。
+
+
+He looks tense.
+彼は緊張している。
+
+
+He looks like acting.
+彼は演技をしているように見える。
+
+
 Lets try ... ?
 ～という作戦を試してみませんか？
+
+
+Can everyone tell us your role.
+全員が、自分の役割をみんなの前で話してみませんか？
 
 
 I trust(beleve) you.
@@ -29,12 +49,17 @@ I am very suspicious of you.
 あなたをとても疑っています。
 
 
+Why is voting for him?
+なぜ彼に投票するのですか？
+
+
 I am not sure but ...
 確実ではないけれど・・・
 
 
 I felt like it.
 なんとなく
+
 
 ```
 
@@ -58,6 +83,11 @@ Who did you see last night?
 
 I saw XXX, and he is a villager.
 XXXさんを見ました。彼は村人です。
+
+
+In his opinion, the real seer is him.
+彼の意見では、本当の予見者は彼です。
+
 ```
 
 ## vote
