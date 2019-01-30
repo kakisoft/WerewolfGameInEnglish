@@ -22,7 +22,7 @@
 |  Doubt / am suspicious of    |  疑う         |   I doubt your words because ...   |
 |  Beleve / trust              |  信じる        |   I beleve what you said.   |
 |  Confess                     |  告白する      |   Please confess your status.   |
-|  Sugeest                     |  提案する      |   I suggested the seer should come out.   |
+|  Suggest                     |  提案する      |   I suggested the seer should come out.   |
 |  Come out                    |  名乗り出る    |   Seer, please come out.   |
 
 
