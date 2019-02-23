@@ -1,10 +1,10 @@
-## opinion / reason
+## discussion / opinion
 ```
-Who do you suspect (is a warewolf)?
+Who do you suspect (is a werewolf)?
 誰が人狼だと思いますか？
 
 
-I thnk he is not a warewolf, because ....
+I thnk he is not a werewolf, because ....
 彼は人狼では無いと思う。なぜなら・・・
 
 
@@ -18,6 +18,10 @@ He looks tense.
 
 He looks like acting.
 彼は演技をしているように見える。
+
+
+She doesnt stand out.
+彼女は目立っていない。
 
 
 Lets try ... ?
@@ -42,7 +46,7 @@ I slightly suspect you.
 あなたのことを少し疑っています。
 
 
-I suspect you a warewolf.
+I suspect you a werewolf.
 あなたが人狼では無いかと疑っています。
 
 
@@ -50,22 +54,50 @@ I am very suspicious of you.
 あなたをとても疑っています。
 
 
-Why is voting for him?
-なぜ彼に投票するのですか？
-
-
 I am not sure but ...
 確実ではないけれど・・・
 
 
-I felt like it.
+I felt like it. / No reason.
 なんとなく
+
+
+We have no hint. / We have no evidence.
+判断材料がありません。
+
+
+Who do you turst?
+誰を信じますか？
+
+
+Who do you suspect?
+誰を疑いますか？
+
+
+Are you testing my reaction?
+私にカマをかけているの？
+
+
+I think Ive been tricked.
+私はワナにはめられたと思う。
+
+
+If you want a safe way...
+安全策を取るのなら・・・
+
+
+Can everyone tell us your roles?
+皆さんの役職を教えてください。
 
 
 ```
 
 ## For Seer
 ```
+If the seer still alive, please reveal yourself.
+もし占い師がまだ行きていたら、出てきて下さい。
+
+
 I am a seer, and XXX is a warewold.
 私が占い師です。XXXが人狼です。
 
@@ -74,8 +106,8 @@ I am a true seer, YYY is a fake.
 私が本当の占い師です。YYYは偽物です。
 
 
-If the seer still alive, please come out.
-もし占い師がまだ行きていたら、出てきて下さい。
+I would like the seer to come out.
+占い師がいたら、出てきてほしいです。
 
 
 Who did you see last night?
@@ -93,6 +125,10 @@ In his opinion, the real seer is him.
 
 ## vote
 ```
+Can you choose someone to vote for?
+投票する人を選んでください。
+
+
 I vote for XXX.
 XXXさんに投票します。
 
@@ -100,4 +136,12 @@ XXXさんに投票します。
 Please dont vote for me. I have a role.
 私に投票しないで下さい。役職があるんです。
 
+
+Lets vote at the same time.
+一斉投票しましょう。
+
+
+Why is voting for him?
+なぜ彼に投票するのですか？
 ```
+
